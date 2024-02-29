@@ -1,0 +1,2 @@
+hi hi hi ctrl s to save
+ctrl x to exit
