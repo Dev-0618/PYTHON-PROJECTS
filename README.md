@@ -6,3 +6,5 @@ use command:
 git clone https://github.com/Dev-0618/PYTHON-PROJECTS 
 cd IASF-PROJECT
 python3 en-de.py
+python3 youtube.py
+python3 linux-basics.py
